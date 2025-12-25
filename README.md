@@ -6,9 +6,10 @@ Este repositorio documenta mi viaje a través del curso **"100 Days of Code: The
 > ## **⚠️ Nota Importante:**
 >
 > Quiero destacar que **todo el código** que encontrarás en este repositorio ha sido escrito **100% por mí de forma manual**.
->
 > No utilizo asistentes de Inteligencia Artificial (ChatGPT, Copilot, etc.) para generar o completar mi código. Mi objetivo con este reto es aprender, interiorizar la lógica de programación y desarrollar mi propia capacidad de resolución de problemas. Cada línea de código refleja mi esfuerzo y mi proceso de aprendizaje personal.
 
+>**La Documentación:** Este archivo `README.md` fue generado con asistencia de IA para asegurar un formato limpio y organizado, permitiéndome enfocar mi tiempo en programar.
+>
 ## 📂 Estructura del Repositorio
 
 A medida que avanzo en el curso, la estructura de mis archivos varía según la complejidad de los temas:
