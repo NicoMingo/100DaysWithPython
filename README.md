@@ -46,8 +46,6 @@ As I progress through the course, the file structure varies based on topic compl
 ---
 *Repository created by Fausto Nicolás Mingo González*
 
----
----
 
 
 # 🐍 100 Days of Code - Python Bootcamp
