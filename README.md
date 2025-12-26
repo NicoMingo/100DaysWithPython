@@ -34,7 +34,8 @@ As I progress through the course, the file structure varies based on topic compl
 | 14 | [Day 14 - Higher Lower Game] | Game Logic | ✅ |
 | 15 | [Day 15 - Coffee Machine] | Local Setup, Loops | ✅ |
 | 16 | [Day 16 - OOP Coffee Machine] | Object Oriented Programming (OOP) | ✅ |
-| 17 | ... | Creating Classes | 🔜 |
+| 17 | [Day 17 - The Quiz Game] | Creating Custom Classes, __init__ | ✅ |
+| 18 | ... | Turtle & GUI | 🔜 |
 
 *(I will update this table as I complete more challenges).*
 
@@ -82,7 +83,8 @@ A medida que avanzo en el curso, la estructura de mis archivos varía según la 
 | 14 | [Día 14 - Higher Lower Game] | Lógica de juego | ✅ |
 | 15 | [Día 15 - Coffee Machine] | Setup Local, Bucles | ✅ |
 | 16 | [Día 16 - OOP Coffee Machine] | Programación Orientada a Objetos (OOP) | ✅ |
-| 17 | ... | Creando Clases | 🔜 |
+| 17 | [Día 17 - The Quiz Game] | Crear Clases Personalizadas, __init__ | ✅ |
+| 18 | ... | Turtle & GUI | 🔜 |
 
 *(Actualizaré esta tabla a medida que complete más desafíos).*
 
